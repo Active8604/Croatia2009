@@ -4,12 +4,6 @@ title: Student Blog
 ---
 
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+Hi, my name is Andrew. I like soccer and my favorite player is Cristiano Ronaldo. I used to play for Albion soccer but then I drifted to waterpolo. I play waterpolo at Del Norte and i play for Poway valley waterpolo club. My favorite place to eat is Dave's Hot Chicken and I also love street tacos. I value friends and family above most things. I also enjoy watching old basketball clips of Michael Jordan. I also enjoy fingerboarding and i have been at a fingerboarding competition.
+![About me drawing.png]({{site.baseurl}}/images/About me drawing.png)
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
-
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
