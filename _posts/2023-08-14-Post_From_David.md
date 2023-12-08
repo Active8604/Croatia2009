@@ -40,4 +40,4 @@ body {
 
 ### Andrew and making posts on my partner's repository
 
-Making posts on Andrew's repository was a challenge because he was behind and unable to commit the changes. He did not set up the tools well, so it took a lot of time to be able to post on his repository. Some things that Andrew is good at is Brawl Stars, a video game, and Spanish. He did much better than me on the spanish tests.
+</p>Making posts on Andrew's repository was a challenge because he was behind and unable to commit the changes. He did not set up the tools well, so it took a lot of time to be able to post on his repository. Some things that Andrew is good at is Brawl Stars, a video game, and Spanish. He did much better than me on the spanish tests. </p>
