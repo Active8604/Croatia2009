@@ -2,7 +2,7 @@
 toc: false
 comments: true
 layout: post
-title: Week 2 Hacks
+title: Post from David
 description: PBL Unit 1 / Week 2 plan using Utterance
 type: hacks
 courses: { compsci: {week: 0} }
@@ -40,4 +40,4 @@ body {
 
 ### Andrew and making posts on my partner's repository
 
-Making posts on Andrew's repository was a challenge because he was behind and unable to commit the changes. He did not set up the tools well, so it took a lot of time to be able to post on his repository. Some things that Andrew is good at is Brawl Stars, a video game, and Spanish. He did much better than me on the spanish tests. In the end, he is still my partner and he might still help me in the future coding a game and doing things like that.
+Making posts on Andrew's repository was a challenge because he was behind and unable to commit the changes. He did not set up the tools well, so it took a lot of time to be able to post on his repository. Some things that Andrew is good at is Brawl Stars, a video game, and Spanish. He did much better than me on the spanish tests.
